@@ -8,6 +8,6 @@ The [pySX127x](https://github.com/mayeranalytics/pySX127x) project will therefor
 
 ### Currently available LoRa modules/ICs
 * Semtech [SX127x](http://www.semtech.com/wireless-rf/rf-transceivers/sx1276/)
-* HopeRF [RFM95/96](http://www.hoperf.com/rf/lora/)
+* HopeRF [RFM95/96](http://www.hoperf.com/rf_transceiver/lora/)
 * Microchip [RN2483](http://www.microchip.com/wwwproducts/Devices.aspx?product=RN2483)
 * EM Microelectronic [EM9101](http://www.emmicroelectronic.com/products/wireless-rf/proprietary-protocols/em9101) (2.4GHz)
